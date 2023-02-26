@@ -11,7 +11,7 @@ sections:
   match: "*"
 - type: directory
   path: content/post
-  label: Post
+  label: News
   create: documents
   match: "*.md"
   exclude: _index.md
