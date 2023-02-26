@@ -1,5 +1,5 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: Spijkenisse Scouts
 featured_image: "/banner.png"
 description: TEST
 
